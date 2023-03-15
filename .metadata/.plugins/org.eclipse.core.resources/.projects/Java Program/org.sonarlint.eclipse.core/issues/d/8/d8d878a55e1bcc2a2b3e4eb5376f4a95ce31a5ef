@@ -1,0 +1,14 @@
+
+°
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŒÎ“‰H·URCRITICALZ
+CODE_SMELL
+°
+java:S1186
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(–ºî§H¹URCRITICALZ
+CODE_SMELL
+f
+java:S1161":Add the "@Override" annotation above this method signature(¯å‰àH»URMAJORZ
+CODE_SMELL
+f
+java:S1161":Add the "@Override" annotation above this method signature(–ºî§H½URMAJORZ
+CODE_SMELL

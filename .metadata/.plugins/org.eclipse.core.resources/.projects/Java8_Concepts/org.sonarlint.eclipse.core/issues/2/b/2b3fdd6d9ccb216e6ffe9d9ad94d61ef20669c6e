@@ -1,0 +1,19 @@
+
+n	java:S125"<This block of commented-out lines of code should be removed.(·¸8àö¥´Å0H¼ZRMAJORZ
+CODE_SMELL
+x
+java:S1612."@Replace this lambda with method reference 'System.out::println'.(ì–¤¯øÿÿÿÿ8À¿¥´Å0H¿ZRMINORZ
+CODE_SMELL
+|
+java:S2095""NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ú§Èª8‹ÄÖ€Æ0HÁZRBLOCKERZBUG
+~
+java:S2095#"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(«Şó°8‹ÄÖ€Æ0HÂZRBLOCKERZBUG
+s
+java:S1612C"@Replace this lambda with method reference 'System.out::println'.(™˜òÈ8ˆ¾á€Æ0HÃZRMINORZ
+CODE_SMELL
+€
+java:S20955"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¤ôÕåøÿÿÿÿ8‹ÄÖ€Æ0HÅZRBLOCKERZBUG
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÄÿúÅHÆZRMINORZ
+CODE_SMELL
+‚
+java:S20956"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ÑÒ»¥øÿÿÿÿ8‹ÄÖ€Æ0HÇZRBLOCKERZBUG

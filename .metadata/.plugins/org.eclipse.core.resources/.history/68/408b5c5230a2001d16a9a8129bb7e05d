@@ -1,0 +1,25 @@
+package StringQuestions;
+import java.util.*;
+public class CheckPalindrome {
+
+	public static void main(String[] args) {
+
+		try (Scanner sc = new Scanner(System.in)) {
+			System.out.println("Enter a String : ");
+			String input = sc.next();
+			
+			StringBuilder str = new StringBuilder(input);
+			
+			str.reverse();
+			
+			if(input.equals(str)) {
+				System.out.println("palindrome");
+			}else {
+				System.out.println("Not Palindrome");
+			}
+			
+		}
+
+	}
+
+}

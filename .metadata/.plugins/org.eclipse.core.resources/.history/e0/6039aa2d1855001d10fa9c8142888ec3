@@ -1,0 +1,19 @@
+package com.virtusa.defaultex1;
+
+public class Student extends Human {
+
+	void read() {
+		System.out.println("Java programming book");
+	}
+	public static void main(String[] args) {
+		Student student = new Student();
+
+		System.out.println(student.Gender = "Male");
+		
+		student.read();
+		
+		student.sleep();
+
+	}
+
+}

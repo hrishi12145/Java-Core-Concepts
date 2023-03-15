@@ -1,0 +1,28 @@
+
+p	java:S1065"9Replace this use of System.out or System.err by a logger.(‡¯±’ùÿÿÿÿ8ÒˆË÷Ã0Hª/RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ¶Æç8ïˆ÷Ã0H­/RMAJORZ
+CODE_SMELL
+p	java:S106;"9Replace this use of System.out or System.err by a logger.(£€ç‚øÿÿÿÿ8Ó•»÷Ã0H¬/RMAJORZ
+CODE_SMELL
+p	java:S1060"9Replace this use of System.out or System.err by a logger.(¾ğÁúÿÿÿÿÿ8ÒˆË÷Ã0H¨/RMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù‘‘ÃûÿÿÿÿH©/RMINORZ
+CODE_SMELL
+]
+java:S11978"*Move the array designators [] to the type.(‹¸Ã‰8ÒˆË÷Ã0H®/RMINORZ
+CODE_SMELL
+p	java:S106'"9Replace this use of System.out or System.err by a logger.(­Œ‡±ıÿÿÿÿ8«À²÷Ã0H¢/RMAJORZ
+CODE_SMELL
+p	java:S1069"9Replace this use of System.out or System.err by a logger.(¬ĞâØúÿÿÿÿ8Ó•»÷Ã0H¦/RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ã™Ùèúÿÿÿÿ8ïˆ÷Ã0H«/RMAJORZ
+CODE_SMELL
+k	java:S106$"9Replace this use of System.out or System.err by a logger.(”ãÇ˜8‡Ø®÷Ã0H§/RMAJORZ
+CODE_SMELL
+p	java:S106-"9Replace this use of System.out or System.err by a logger.(â·ÇÑüÿÿÿÿ8ÒˆË÷Ã0H¥/RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ı„•óşÿÿÿÿ8¦ÛŸ÷Ã0H£/RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(”¢™ˆøÿÿÿÿ8¦ÛŸ÷Ã0H¤/RMAJORZ
+CODE_SMELL

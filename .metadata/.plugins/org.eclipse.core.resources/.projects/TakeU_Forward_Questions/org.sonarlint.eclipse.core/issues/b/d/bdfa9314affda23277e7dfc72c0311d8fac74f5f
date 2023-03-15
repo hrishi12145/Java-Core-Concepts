@@ -1,0 +1,9 @@
+
+H
+java:S1643"Use a StringBuilder instead.(òôë±HﬁZRMINORZ
+CODE_SMELL
+|
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Æ˝êµHﬂZRMAJORZ
+CODE_SMELL
+Ö	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸΩ¬≤H‡ZRMINORZ
+CODE_SMELL

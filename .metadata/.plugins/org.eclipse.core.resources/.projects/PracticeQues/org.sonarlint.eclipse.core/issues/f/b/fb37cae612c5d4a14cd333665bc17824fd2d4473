@@ -1,0 +1,9 @@
+
+›
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(ğ¸İÒşÿÿÿÿ8õâÂñÊ0HSRMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®Ì³æıÿÿÿÿHõRRMINORZ
+CODE_SMELL
+T
+java:S1643"Use a StringBuilder instead.(šÁøîûÿÿÿÿ8ÅùùğÊ0HŒSRMINORZ
+CODE_SMELL

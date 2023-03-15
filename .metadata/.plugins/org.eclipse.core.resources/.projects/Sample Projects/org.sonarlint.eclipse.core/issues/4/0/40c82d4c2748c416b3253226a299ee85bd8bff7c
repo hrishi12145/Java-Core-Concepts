@@ -1,0 +1,13 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(…Ú¬Æøÿÿÿÿ8¬‘Ï·¿0HûRMAJORZ
+CODE_SMELL
+€	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¨¥®8¬‘Ï·¿0HüRMINORZ
+CODE_SMELL
+p	java:S106
+"9Replace this use of System.out or System.err by a logger.(™Á¯ıÿÿÿÿ8¬‘Ï·¿0HıRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ßÇÊüÿÿÿÿ8’‘™Å¿0HşRMAJORZ
+CODE_SMELL
+T
+java:S1116"Remove this empty statement.(Åñ­õşÿÿÿÿ8’‘™Å¿0HÿRMINORZ
+CODE_SMELL

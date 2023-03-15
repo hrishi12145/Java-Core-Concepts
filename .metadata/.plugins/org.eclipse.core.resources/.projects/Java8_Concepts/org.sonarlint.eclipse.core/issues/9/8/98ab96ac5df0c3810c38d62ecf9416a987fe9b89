@@ -1,0 +1,13 @@
+
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÄÿúÅH°ZRMINORZ
+CODE_SMELL
+x
+java:S1612#"@Replace this lambda with method reference 'System.out::println'.(ì–¤¯øÿÿÿÿ8Ð¦°´Å0H±ZRMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(·¸8šø©´Å0H³ZRMAJORZ
+CODE_SMELL
+x
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(¢§ ïûÿÿÿÿ8šø©´Å0H¶ZRMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(·¸8Ð¦°´Å0H¸ZRMAJORZ
+CODE_SMELL

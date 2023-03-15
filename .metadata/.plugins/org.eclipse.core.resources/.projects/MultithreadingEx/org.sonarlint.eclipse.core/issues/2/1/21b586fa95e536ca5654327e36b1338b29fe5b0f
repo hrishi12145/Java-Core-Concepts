@@ -1,0 +1,18 @@
+
+|
+java:S2147/"DCombine this catch with the one at line 45, which has the same body.(åşŒóùÿÿÿÿ8ÛÖ•¢È0H÷ERMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…Çˆ…HúERMINORZ
+CODE_SMELL
+”
+java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "lineNoLst".(Ç‡‚8õÂ¢È0HûERMINORZ
+CODE_SMELL
+p	java:S1063"9Replace this use of System.out or System.err by a logger.(Ù¿éûÿÿÿÿ8ÛÖ•¢È0HõERMAJORZ
+CODE_SMELL
+Š
+java:S2142-"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÛÖ•¢È0HöERMAJORZBUG
+t
+java:S1075%"ARefactor your code to get this URI from a customizable parameter.(Ä¡é£8ÛÖ•¢È0HùERMINORZ
+CODE_SMELL
+p	java:S106,"9Replace this use of System.out or System.err by a logger.(ÕƒÔúÿÿÿÿ8Êé˜¢È0HşERMAJORZ
+CODE_SMELL

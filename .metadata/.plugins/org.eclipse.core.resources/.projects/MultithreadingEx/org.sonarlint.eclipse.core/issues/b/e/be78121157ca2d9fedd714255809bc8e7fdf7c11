@@ -1,0 +1,39 @@
+
+f
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿHŸJRMAJORZ
+CODE_SMELL
+f
+java:S1141="5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿH¡JRMAJORZ
+CODE_SMELL
+Y
+java:S1604"(Make this anonymous inner class a lambda(‰À¨ìúÿÿÿÿH£JRMAJORZ
+CODE_SMELL
+Y
+java:S16042"(Make this anonymous inner class a lambda(Ê—îáşÿÿÿÿH¤JRMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ïä‡ÁşÿÿÿÿH¥JRMINORZ
+CODE_SMELL
+t
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(á‡Í…ÿÿÿÿÿH¦JRBLOCKERZBUG
+o
+java:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(á•®¸H§JRBLOCKERZBUG
+ƒ
+java:S2142)"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€H¨JRMAJORZBUG
+j
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(á˜ ¶H©JRBLOCKERZBUG
+i	java:S106"9Replace this use of System.out or System.err by a logger.(Îµâ£şÿÿÿÿHªJRMAJORZ
+CODE_SMELL
+i	java:S106#"9Replace this use of System.out or System.err by a logger.(şÒãûÿÿÿÿH«JRMAJORZ
+CODE_SMELL
+i	java:S106'"9Replace this use of System.out or System.err by a logger.(òê¦üÿÿÿÿH¬JRMAJORZ
+CODE_SMELL
+ƒ
+java:S2142H"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€H­JRMAJORZBUG
+j
+java:S22767"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(á˜ ¶H®JRBLOCKERZBUG
+i	java:S1068"9Replace this use of System.out or System.err by a logger.(à³›æûÿÿÿÿH¯JRMAJORZ
+CODE_SMELL
+i	java:S106?"9Replace this use of System.out or System.err by a logger.(ÇÃ§åşÿÿÿÿH°JRMAJORZ
+CODE_SMELL
+d	java:S106F"9Replace this use of System.out or System.err by a logger.(®Ìá«H±JRMAJORZ
+CODE_SMELL

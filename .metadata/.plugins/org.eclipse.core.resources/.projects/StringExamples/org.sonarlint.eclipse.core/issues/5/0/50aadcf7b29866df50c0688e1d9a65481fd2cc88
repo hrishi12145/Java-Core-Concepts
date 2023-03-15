@@ -1,0 +1,10 @@
+
+
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Çµí‘H…VRCRITICALZ
+CODE_SMELL
+
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÿĞç‹şÿÿÿÿH‘VRMAJORZ
+CODE_SMELL
+‹
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ËûàØH’VRMAJORZ
+CODE_SMELL

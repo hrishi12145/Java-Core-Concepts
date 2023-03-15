@@ -1,0 +1,25 @@
+
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ã´èúÿÿÿÿHïGRMAJORZ
+CODE_SMELL
+v
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¤ù»ÿÿÿÿÿ8Æë¡ÍÈ0H÷GRBLOCKERZBUG
+Š
+java:S2142+"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ïƒ¥ÍÈ0HúGRMAJORZBUG
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òì§±şÿÿÿÿHĞGRMINORZ
+CODE_SMELL
+c	java:S106)"9Replace this use of System.out or System.err by a logger.(ÔÍ™{HòGRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‰©úÿÿÿÿ8Õ¸¾ÊÈ0HñGRMAJORZ
+CODE_SMELL
+Š
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Æë¡ÍÈ0HöGRMAJORZBUG
+v
+java:S2276%"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¤ù»ÿÿÿÿÿ8ïƒ¥ÍÈ0HûGRBLOCKERZBUG
+S
+java:S1604"(Make this anonymous inner class a lambda(¿úlHÖGRMAJORZ
+CODE_SMELL
+k	java:S106&"9Replace this use of System.out or System.err by a logger.(×ü‡³8ôÎ¹ÊÈ0HîGRMAJORZ
+CODE_SMELL
+Y
+java:S1604!"(Make this anonymous inner class a lambda(¸‘øûüÿÿÿÿHÓGRMAJORZ
+CODE_SMELL

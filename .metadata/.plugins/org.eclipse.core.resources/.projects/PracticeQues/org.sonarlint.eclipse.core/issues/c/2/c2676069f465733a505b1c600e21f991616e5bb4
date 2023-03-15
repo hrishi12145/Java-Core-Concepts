@@ -1,0 +1,14 @@
+
+n	java:S125"<This block of commented-out lines of code should be removed.(Í®å¼8‹¶éÃÊ0H¢ORMAJORZ
+CODE_SMELL
+e
+java:S1172("-Remove this unused method parameter "input1".(«‹´©ıÿÿÿÿ8¿¹­ÄÊ0HÏORMAJORZ
+CODE_SMELL
+b
+java:S1197+"*Move the array designators [] to the type.(îäã¿şÿÿÿÿ8¿¹­ÄÊ0HÑORMINORZ
+CODE_SMELL
+Œ
+java:S30120"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(éòÕ£8¿¹­ÄÊ0HÔORMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Á»õ´HœORMINORZ
+CODE_SMELL

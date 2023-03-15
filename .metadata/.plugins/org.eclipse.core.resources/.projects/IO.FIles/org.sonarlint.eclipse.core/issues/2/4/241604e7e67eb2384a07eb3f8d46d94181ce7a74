@@ -1,0 +1,8 @@
+
+m
+java:S1118":Add a private constructor to hide the implicit public one.(£¿À8˜§¾ÿÇ0HSRMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±Ÿ€¤øÿÿÿÿHSRMINORZ
+CODE_SMELL
+}	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(õÒ¼ñşÿÿÿÿ8—§¾ÿÇ0H‘SRMAJORZ
+CODE_SMELL

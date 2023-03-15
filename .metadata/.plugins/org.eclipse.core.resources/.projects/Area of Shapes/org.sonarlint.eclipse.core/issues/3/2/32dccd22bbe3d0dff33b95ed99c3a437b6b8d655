@@ -1,0 +1,7 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(òÄ†³ûÿÿÿÿ8þœïà¿0H—RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(³‹¬Üøÿÿÿÿ8þœïà¿0H•RMAJORZ
+CODE_SMELL
+n
+java:S2184"BCast one of the operands of this division operation to a "double".(ºæµ½8þœïà¿0H–RMINORZBUG

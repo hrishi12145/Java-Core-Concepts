@@ -1,0 +1,7 @@
+
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ýóÝÄHƒ[RMINORZ
+CODE_SMELL
+g	java:S1253"<This block of commented-out lines of code should be removed.(”‹÷H„[RMAJORZ
+CODE_SMELL
+p
+java:S4143 "DVerify this is the key that was intended; it was already set before.(âÚŠê8 ŸÌâÃ0HŠ[RMAJORZBUG

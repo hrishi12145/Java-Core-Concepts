@@ -1,0 +1,23 @@
+package com.virtusa.ArrayListEx1;
+
+import java.util.ArrayList;
+
+/*  1. ArrayList internally make use of Dynamic Data Structures .
+ *  2. It is an Ordered Collection of data .
+ *  3. Allows Duplicate elements
+ *  4. It allows homogenius as well as hetrogenius data
+ *  5. elements are added at the rare end. 
+ */
+public class ArrayListEx1 {
+	public static void main(String[] args) {
+           ArrayList<String> employees = new ArrayList<String>();
+           
+           employees.add("Hrishi");
+           employees.add("Aashish");
+           employees.add("Mukund");
+           employees.add("Mahesh");
+           employees.add("Sachin");
+           
+           System.out.println(employees);
+	}
+}

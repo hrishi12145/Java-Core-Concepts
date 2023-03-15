@@ -1,0 +1,23 @@
+The Key Differences - Lambda Expression vs Anonymous Class 
+
+1. Lambda expression can be used where a class implements a functional interface 
+to reduce the complexity of the code.
+
+2. An inner anonymous class is more powerful as we can use many methods as we want, 
+whereas lambda expression can only be used where an interface has only a single abstract method.
+
+3. For Lambda Expression at the time of compilation, no .class file fill be generated.
+
+4. For the Anonymous Inner class at the time of compilation, a separate .class file will be generated.
+
+5.The Performance of the lambda expression is better as it is pure compile-time activity and doesn’t incur
+extra cost during runtime.
+
+6.However, the Performance of the anonymous inner class is lower as requires class loading at runtime
+
+1.Lambda expression - forEach - Done
+2.Default method - multiple interface extends class then override the method and print the method using Lambda expression .
+3.static Method - Overridding -- multiple interface
+4.Method Reference - 3 Ques
+5.Stream API - Read Concept 
+

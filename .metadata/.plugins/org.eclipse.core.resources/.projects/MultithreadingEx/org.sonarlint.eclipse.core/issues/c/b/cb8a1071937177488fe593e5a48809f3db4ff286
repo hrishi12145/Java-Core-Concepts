@@ -1,0 +1,31 @@
+
+`
+java:S1604-"(Make this anonymous inner class a lambda(ûÆüÕúÿÿÿÿ8 Ğ—È0HòERMAJORZ
+CODE_SMELL
+T
+java:S11166"Remove this empty statement.(Åñ­õşÿÿÿÿ8ó›ÜªÈ0H¹FRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(àÔ•şÿÿÿÿ8 Ğ—È0HóERMAJORZ
+CODE_SMELL
+ˆ
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Çµí‘8ó›ÜªÈ0H«FRCRITICALZ
+CODE_SMELL
+k	java:S106A"9Replace this use of System.out or System.err by a logger.(ø­Ÿ¹8…Ì„È0HGRMAJORZ
+CODE_SMELL
+T
+java:S1116#"Remove this empty statement.(Åñ­õşÿÿÿÿ8ó›ÜªÈ0H·FRMINORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(‚Æı%8½ù…È0HôERMAJORZ
+CODE_SMELL
+`
+java:S1604"(Make this anonymous inner class a lambda(ûÆüÕúÿÿÿÿ8åÿÈ0HñERMAJORZ
+CODE_SMELL
+p	java:S106("9Replace this use of System.out or System.err by a logger.(ÏÈÈ©ÿÿÿÿÿ8ÕïŒÈ0HGRMAJORZ
+CODE_SMELL
+p
+java:S2589 "8Remove this expression which always evaluates to "false"(›¬öûÿÿÿÿ8ó›ÜªÈ0H¨FRMAJORZ
+CODE_SMELL
+p	java:S106<"9Replace this use of System.out or System.err by a logger.(Ù–„¾ûÿÿÿÿ8…Ì„È0HîERMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß‡êøøÿÿÿÿHïERMINORZ
+CODE_SMELL

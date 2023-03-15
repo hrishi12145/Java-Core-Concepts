@@ -1,0 +1,6 @@
+
+ç
+java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "lineNoLst".(«èáÇHÉFRMINORZ
+CODE_SMELL
+Ö	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö«àÖHÜFRMINORZ
+CODE_SMELL

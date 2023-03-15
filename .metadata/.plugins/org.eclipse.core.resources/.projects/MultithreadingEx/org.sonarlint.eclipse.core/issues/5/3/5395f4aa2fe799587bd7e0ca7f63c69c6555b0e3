@@ -1,0 +1,11 @@
+
+Š
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8§›’ÕÈ0HKRMAJORZBUG
+	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8èÜïÕÈ0H¢KRMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ş÷„ÿÿÿÿÿHKRMINORZ
+CODE_SMELL
+L
+java:S2119"Save and re-use this "Random".(¼İÅf8¯‡‹ØÈ0HÆKRCRITICALZBUG
+v
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".( Ìë´ûÿÿÿÿ8¯‡‹ØÈ0HÇKRBLOCKERZBUG

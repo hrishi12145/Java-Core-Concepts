@@ -1,0 +1,9 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÔË×¤8Î°ÄîÂ0HÌRMAJORZ
+CODE_SMELL
+m
+java:S1161":Add the "@Override" annotation above this method signature(ïµ£8Î°ÄîÂ0HÊRMAJORZ
+CODE_SMELL
+b
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8Î°ÄîÂ0HÍRMINORZ
+CODE_SMELL

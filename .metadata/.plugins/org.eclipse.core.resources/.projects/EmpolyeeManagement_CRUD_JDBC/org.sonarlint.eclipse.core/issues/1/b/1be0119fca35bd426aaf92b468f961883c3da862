@@ -1,0 +1,36 @@
+
+c	java:S106"9Replace this use of System.out or System.err by a logger.(²ÔûDH¨RMAJORZ
+CODE_SMELL
+d	java:S1061"9Replace this use of System.out or System.err by a logger.(ýÊ×ËH¬RMAJORZ
+CODE_SMELL
+i	java:S106@"9Replace this use of System.out or System.err by a logger.(íÒöÉýÿÿÿÿH¯RMAJORZ
+CODE_SMELL
+d	java:S106)"9Replace this use of System.out or System.err by a logger.(ýÊ×ËHªRMAJORZ
+CODE_SMELL
+d	java:S106<"9Replace this use of System.out or System.err by a logger.(€Ô‰£H®RMAJORZ
+CODE_SMELL
+˜
+java:S1130
+"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿ØH RMINORZ
+CODE_SMELL
+d	java:S106 "9Replace this use of System.out or System.err by a logger.(ß‹º´H©RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ìÑ‚åH¢RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(Ç£„îH¥RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(¿‰Ö€úÿÿÿÿH£RMAJORZ
+CODE_SMELL
+d	java:S106-"9Replace this use of System.out or System.err by a logger.(ýÊ×ËH«RMAJORZ
+CODE_SMELL
+‡
+java:S1192)"XDefine a constant instead of duplicating this literal "Enter id of an Employee" 3 times.(ýÊ×ËHœRCRITICALZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(°ð«ÛH¤RMAJORZ
+CODE_SMELL
+d	java:S1065"9Replace this use of System.out or System.err by a logger.(ß‹º´H­RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ØÿˆËH¦RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ìøÚÅH§RMAJORZ
+CODE_SMELL

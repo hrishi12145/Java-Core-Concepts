@@ -1,0 +1,19 @@
+
+€
+java:S1192/"LDefine a constant instead of duplicating this literal "Enter id : " 4 times.(±ÚÂÿıÿÿÿÿHÉVRCRITICALZ
+CODE_SMELL
+š
+java:S1192Q"fDefine a constant instead of duplicating this literal "_____________________________________" 3 times.(º¢µÿÿÿÿÿHÎVRCRITICALZ
+CODE_SMELL
+“
+java:S1192D"_Define a constant instead of duplicating this literal "******************************" 7 times.(øÉù˜úÿÿÿÿHÒVRCRITICALZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñÖªºıÿÿÿÿHÚVRMINORZ
+CODE_SMELL
+P	java:S131+""Add a default case to this switch.(™ÏêƒHÛVRCRITICALZ
+CODE_SMELL
+M
+java:S1116B"Remove this empty statement.( ¦—‹úÿÿÿÿHÜVRMINORZ
+CODE_SMELL
+l	java:S125M"<This block of commented-out lines of code should be removed.(Õó˜áùÿÿÿÿHŞVRMAJORZ
+CODE_SMELL

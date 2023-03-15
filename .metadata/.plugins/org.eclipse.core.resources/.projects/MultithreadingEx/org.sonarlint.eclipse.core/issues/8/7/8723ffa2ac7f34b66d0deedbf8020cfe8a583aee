@@ -1,0 +1,12 @@
+
+k	java:S106-"9Replace this use of System.out or System.err by a logger.(…ş‘ñ8¬é¡ÉÈ0HæGRMAJORZ
+CODE_SMELL
+
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.( àùÓûÿÿÿÿ8¬é¡ÉÈ0HçGRMAJORZBUG
+Œ	java:S116
+"URename this field "read_write" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µèòÛÿÿÿÿÿ8¬é¡ÉÈ0HéGRMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òì§±şÿÿÿÿHêGRMINORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ú®88¬é¡ÉÈ0HëGRMAJORZ
+CODE_SMELL

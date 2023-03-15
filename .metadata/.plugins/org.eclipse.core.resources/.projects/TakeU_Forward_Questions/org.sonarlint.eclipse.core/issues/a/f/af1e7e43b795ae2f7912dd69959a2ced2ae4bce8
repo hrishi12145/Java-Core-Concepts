@@ -1,0 +1,10 @@
+
+T
+java:S1643"Use a StringBuilder instead.(Î¨û£ûÿÿÿÿ8í„é™á0HYRMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ù½Â²HƒYRMINORZ
+CODE_SMELL
+e
+java:S2251"9"i" is decremented and will never reach "stop condition".(äÀâÏ8í„é™á0H”YRMAJORZBUG
+P
+java:S2189""Correct this loop's end condition.(äÀâÏ8í„é™á0H„YRBLOCKERZBUG

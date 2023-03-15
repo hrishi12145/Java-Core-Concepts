@@ -1,0 +1,9 @@
+1668164983819	Encapsulate field 'jdbcTemplate'
+1668166857827	Move compilation unit
+1668166887705	Rename package 'com.spring.jdbc'
+1668166915358	Move compilation unit
+1668166922727	Move compilation unit
+1668166928071	Delete element
+1668166942105	Rename package 'com.spring.jdbc.dao'
+1668166960537	Rename package 'com.spring.jdbc.config'
+1668167031335	Rename type 'App'

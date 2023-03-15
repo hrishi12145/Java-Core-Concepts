@@ -1,0 +1,8 @@
+
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…Çˆ…H‚FRMINORZ
+CODE_SMELL
+…	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£‡­íþÿÿÿÿ8§Ìì¡È0HÿERMINORZ
+CODE_SMELL
+w
+java:S2147"DCombine this catch with the one at line 27, which has the same body.(ï­£Ä8§Ìì¡È0H€FRMINORZ
+CODE_SMELL

@@ -1,0 +1,11 @@
+
+a
+java:S1905-")Remove this unnecessary cast to "Person".(øÃñÛÿÿÿÿÿ8Ò˜Â‡Ä0HüZRMINORZ
+CODE_SMELL
+‘
+java:S1210,"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Í¹¨åúÿÿÿÿ8¬º‡Ä0HşZRMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«›ÔøÿÿÿÿHÿZRMINORZ
+CODE_SMELL
+s	java:S1252"<This block of commented-out lines of code should be removed.(ÿå†úÿÿÿÿ8Ò˜Â‡Ä0H€[RMAJORZ
+CODE_SMELL

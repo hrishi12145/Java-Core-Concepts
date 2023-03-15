@@ -1,0 +1,16 @@
+
+z
+java:S1192c"KDefine a constant instead of duplicating this literal "adminlogin" 3 times.(Ó¾ĞÁHÌ2RCRITICALZ
+CODE_SMELL
+u
+java:S1192y"FDefine a constant instead of duplicating this literal "blank" 4 times.(àå»±HĞ2RCRITICALZ
+CODE_SMELL
+u
+java:S1192w"FDefine a constant instead of duplicating this literal "admin" 3 times.(¥·ƒHÕ2RCRITICALZ
+CODE_SMELL
+|
+java:S1192B"HDefine a constant instead of duplicating this literal "status" 11 times.(ƒú¹†øÿÿÿÿHÙ2RCRITICALZ
+CODE_SMELL
+}
+java:S1192:"NDefine a constant instead of duplicating this literal "adminregister" 6 times.(Á¯­Hå2RCRITICALZ
+CODE_SMELL

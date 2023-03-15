@@ -1,0 +1,8 @@
+
+m
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(÷‹¦ŽH«VRMINORZ
+CODE_SMELL
+t
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÿ¨ò×H¬VRBLOCKERZBUG
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÅÜÁûH­VRMINORZ
+CODE_SMELL

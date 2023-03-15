@@ -1,0 +1,12 @@
+
+r
+java:S2184"HCast one of the operands of this multiplication operation to a "double".(¤Óä¿úÿÿÿÿHúYRMINORZBUG
+r
+java:S2184"HCast one of the operands of this multiplication operation to a "double".(á÷˜ÓüÿÿÿÿHûYRMINORZBUG
+g
+java:S2184&"BCast one of the operands of this division operation to a "double".(ºæµ½HüYRMINORZBUG
+°
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¸¨ˆ®HýYRCRITICALZ
+CODE_SMELL
+g	java:S125"<This block of commented-out lines of code should be removed.(Éçâ¥HÿYRMAJORZ
+CODE_SMELL

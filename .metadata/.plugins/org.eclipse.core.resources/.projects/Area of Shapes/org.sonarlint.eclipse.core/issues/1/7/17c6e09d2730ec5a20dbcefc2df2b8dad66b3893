@@ -1,0 +1,7 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(½Ñ¸ê8ãÏæà¿0HœRMAJORZ
+CODE_SMELL
+y
+java:S2184"HCast one of the operands of this multiplication operation to a "double".(¤Óä¿úÿÿÿÿ8âÏæà¿0HšRMINORZBUG
+p	java:S106	"9Replace this use of System.out or System.err by a logger.(†®äïÿÿÿÿÿ8ãÏæà¿0H›RMAJORZ
+CODE_SMELL

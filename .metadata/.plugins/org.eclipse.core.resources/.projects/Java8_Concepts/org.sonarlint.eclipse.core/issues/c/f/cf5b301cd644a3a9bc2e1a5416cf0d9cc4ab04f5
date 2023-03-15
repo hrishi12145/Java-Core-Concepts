@@ -1,0 +1,10 @@
+
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÄÿúÅH»WRMINORZ
+CODE_SMELL
+|
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ú§Èª8Ñ¤ï€Æ0H¼WRBLOCKERZBUG
+x
+java:S1612""@Replace this lambda with method reference 'System.out::println'.(ì–¤¯øÿÿÿÿ8Ñ¤ï€Æ0H½WRMINORZ
+CODE_SMELL
+~
+java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(«Þó°8Ñ¤ï€Æ0H¿WRBLOCKERZBUG

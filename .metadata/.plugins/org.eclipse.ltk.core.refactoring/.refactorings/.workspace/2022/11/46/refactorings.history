@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;adminCrud-Spring-Jdbc&apos; to &apos;Car_DealerShip_Inventary_CRUD_Spring_JDBC&apos;&#x0D;&#x0A;- Original element: &apos;adminCrud-Spring-Jdbc&apos;&#x0D;&#x0A;- Renamed element: &apos;adminCrud-Spring-Jdbc&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;adminCrud-Spring-Jdbc&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=adminCrud-Spring-Jdbc" name="Car_DealerShip_Inventary_CRUD_Spring_JDBC" references="true" stamp="1668226834179" version="1.0"/>
+</session>

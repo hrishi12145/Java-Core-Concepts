@@ -1,0 +1,28 @@
+
+]
+java:S2440",Remove this instantiation of "DatabaseUtil".(ğ•²¬ıÿÿÿÿHRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(¨£ó–HRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ğÉçôúÿÿÿÿH‘RMAJORZ
+CODE_SMELL
+d	java:S106,"9Replace this use of System.out or System.err by a logger.(ßÉÉ»H’RMAJORZ
+CODE_SMELL
+i	java:S106-"9Replace this use of System.out or System.err by a logger.(Ã›ÏĞøÿÿÿÿH“RMAJORZ
+CODE_SMELL
+c	java:S106."9Replace this use of System.out or System.err by a logger.(ÏœêiH”RMAJORZ
+CODE_SMELL
+i	java:S106/"9Replace this use of System.out or System.err by a logger.(£¨’¢úÿÿÿÿH•RMAJORZ
+CODE_SMELL
+d	java:S1060"9Replace this use of System.out or System.err by a logger.(³‘Š×H–RMAJORZ
+CODE_SMELL
+d	java:S106@"9Replace this use of System.out or System.err by a logger.(°Ë«H—RMAJORZ
+CODE_SMELL
+d	java:S106M"9Replace this use of System.out or System.err by a logger.(İµÙ¤H˜RMAJORZ
+CODE_SMELL
+i	java:S106O"9Replace this use of System.out or System.err by a logger.(àÆãšşÿÿÿÿH™RMAJORZ
+CODE_SMELL
+d	java:S106`"9Replace this use of System.out or System.err by a logger.(‹ó ÆHšRMAJORZ
+CODE_SMELL
+i	java:S106b"9Replace this use of System.out or System.err by a logger.(àÆãšşÿÿÿÿH›RMAJORZ
+CODE_SMELL

@@ -1,0 +1,9 @@
+
+`
+java:S1905%"(Remove this unnecessary cast to "Entry".(¶èÿÿÿÿÿ8ÄÇáÃ0HëZRMINORZ
+CODE_SMELL
+‰
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ì²ß8­öÂáÃ0HêZRMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥ªÆûÿÿÿÿHéZRMINORZ
+CODE_SMELL

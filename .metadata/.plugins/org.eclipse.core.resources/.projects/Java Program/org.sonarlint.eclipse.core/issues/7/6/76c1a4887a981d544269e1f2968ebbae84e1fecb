@@ -1,0 +1,11 @@
+
+Œ
+java:S12106"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(‘úù¤8’‘´ÇË0H¤URMINORZ
+CODE_SMELL
+c
+java:S19057"+Remove this unnecessary cast to "Employee".(àÇ¡Ùûÿÿÿÿ8’‘´ÇË0H¥URMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æ—‡¶üÿÿÿÿHžURMINORZ
+CODE_SMELL
+s	java:S125<"<This block of commented-out lines of code should be removed.(ÿå†úÿÿÿÿ8ŠŸ¶ÇË0H«URMAJORZ
+CODE_SMELL
